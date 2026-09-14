@@ -1,0 +1,6 @@
+node_modules
+dist
+.DS_Store
+public/data/catalog.json
+public/data/plays/*/video.*
+public/data/plays/*/source.*

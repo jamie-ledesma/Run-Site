@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/coachview.tsx","./src/components/rbview.tsx","./src/components/threeplayview.tsx","./src/data/democatalog.ts","./src/data/teams.ts","./src/data/uniforms.ts","./src/lib/organizationinsights.ts","./src/lib/playengine.test.ts","./src/lib/playengine.ts"],"version":"5.9.3"}

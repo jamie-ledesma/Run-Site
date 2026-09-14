@@ -1,0 +1,24 @@
+{
+  "id": "team-season-week-play",
+  "team": "NE",
+  "opponent": "BUF",
+  "title": "Outside zone",
+  "quarter": 2,
+  "clock": "08:42",
+  "down": 1,
+  "distance": 10,
+  "lineOfScrimmage": 40,
+  "ballCarrierId": "rb",
+  "actualYards": 7,
+  "sourceType": "video",
+  "videoUrl": "/data/plays/team-season-week-play/video.mp4",
+  "videoOffsetSeconds": 0,
+  "framesUrl": "/data/plays/team-season-week-play/frames.json",
+  "rights": {
+    "status": "cleared",
+    "owner": "Rights holder name",
+    "licenseReference": "Contract or permission reference",
+    "publicDisplay": true,
+    "derivativeVisuals": true
+  }
+}
