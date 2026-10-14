@@ -10,6 +10,19 @@ RunSight is a football film-analysis prototype that compares a ball carrier's ac
 4. Run `npm run dev`.
 5. Open the local address printed in the terminal.
 
+## Tests and production build
+
+Run these commands from the repository root after installing dependencies:
+
+```sh
+npm test          # run the play-engine tests once
+npm run build    # type-check and build the production site
+npm run preview  # serve the production build locally
+```
+
+Run `npm run build` before `npm run preview`, then open the address printed
+by the preview server.
+
 ## What is implemented
 
 - All 32 NFL teams in the selector
